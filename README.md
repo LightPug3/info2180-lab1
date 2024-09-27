@@ -1,2 +1,3 @@
-# info2180-lab1
-Lab #1 for course: INFO2180 - Dynamic Web Development I
+# INFO2180 Lab 1
+
+This is Lab 1 for Nathan J. Gordon
